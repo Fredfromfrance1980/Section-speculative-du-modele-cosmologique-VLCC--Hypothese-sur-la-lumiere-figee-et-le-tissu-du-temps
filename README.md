@@ -6,6 +6,8 @@ Cette section spéciale du modèle VLCC explore une hypothèse audacieuse :
 et si le photon à fréquence nulle, loin d’être inexistant, incarnait le **temps pur** ?
 
 ---
+> 📌 **Dernière version du document** : VLCC_Recueil_V2.docx  
+> Cette version intègre l’hypothèse 0 = T et les implications cosmologiques associées.
 
 ## 📘 Référence
 
