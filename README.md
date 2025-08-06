@@ -1,7 +1,7 @@
 # Section-speculative-du-modele-cosmologique-VLCC--Hypothese-sur-la-lumiere-figee-et-le-tissu-du-temps
 0 = T : Le photon figé comme essence du temps
-# 🌌 0 = T — Lumière figée et tissu du temps
-La version V2 remplace le document précédent
+# 🌌 0 = T — Lumière figée et tissu du temps - V2-
+La version V3 remplace le document précédent
 
 Cette section spéciale du modèle VLCC explore une hypothèse audacieuse :  
 et si le photon à fréquence nulle, loin d’être inexistant, incarnait le **temps pur** ?
@@ -12,12 +12,13 @@ et si le photon à fréquence nulle, loin d’être inexistant, incarnait le **t
 >
 > Ce dépôt contient également:
 > La version 1 :Section spéculative du VLCC - 0 = T - Hypothèse sur la lumière figée et le tissu du temps V1.pdf
-> La version 2 :
+> La version 2 : 0 = T Hypothèse sur la lumière figée et le tissu du temps-V2-.pdf
 > la dernière mise à jour: 0 = T – Hypothèse sur la lumière figée et le tissu du temps intriqué - Version 3
 
 ## 📘 Référence
 
-**Titre :** 0 = T : Hypothèse sur la lumière figée et le tissu du temps  
+**Titre :**Section spéculative du VLCC - 0 = T - Hypothèse sur la lumière figée et le tissu du temps V1.pdf
+**Titre :** 0 = T : Hypothèse sur la lumière figée et le tissu du temps - V2-  
 **Titre :** 0 = T – Hypothèse sur la lumière figée et le tissu du temps intriqué - Version 3
 **Auteur :** Frédérick Vronsky  
 **DOI Zenodo :** [10.5281/zenodo.15880256](https://doi.org/10.5281/zenodo.15880256)
