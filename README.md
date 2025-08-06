@@ -11,7 +11,9 @@ et si le photon à fréquence nulle, loin d’être inexistant, incarnait le **t
 > Cette version intègre l’hypothèse 0 = T et les implications cosmologiques associées.
 >
 > Ce dépôt contient également:
-> la version mise à jour: 0 = T – Hypothèse sur la lumière figée et le tissu du temps intriqué - Version 3
+> La version 1 :Section spéculative du VLCC - 0 = T - Hypothèse sur la lumière figée et le tissu du temps V1.pdf
+> La version 2 :
+> la dernière mise à jour: 0 = T – Hypothèse sur la lumière figée et le tissu du temps intriqué - Version 3
 
 ## 📘 Référence
 
